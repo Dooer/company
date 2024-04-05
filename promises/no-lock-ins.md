@@ -1,6 +1,11 @@
-# No Lock-Ins Policy
+---
+title: No Lock-Ins Policy
+description: No Lock-Ins Policy
+slug: company/promises/no-lock-ins-policy
+---
 
-At Dooer, we believe in giving our users the freedom and flexibility they deserve. Our no lock-ins policy is a testament to this belief:
+At Dooer, we believe in giving our users the freedom and flexibility they
+deserve. Our no lock-ins policy is a testament to this belief:
 
 - **Easy Cancellation**: Users can cancel their service at any time without penalty.
 - **Data Portability**: We ensure that user data is easily exportable in standard formats.
